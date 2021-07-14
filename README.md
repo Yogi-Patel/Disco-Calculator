@@ -8,5 +8,5 @@ I used JDK 11 for this.
 You should have it installed in your machine 
 Then all you need to do is compile it using your command line: 
 `javac DiscoCalculator.java`
-And then run it by: 
+And then run it: 
 `java DiscoCalculator` 
